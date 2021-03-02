@@ -1,0 +1,12 @@
+{
+  "name": "lesik-mob",
+  "displayName": "lesik-mob",
+  "expo": {
+    "name": "lesik-mob",
+    "slug": "lesik-mob",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
